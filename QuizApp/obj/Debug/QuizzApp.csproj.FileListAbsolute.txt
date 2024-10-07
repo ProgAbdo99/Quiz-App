@@ -1,0 +1,15 @@
+M:\QuizzApp\QuizzApp\bin\Debug\QuizzApp.exe.config
+M:\QuizzApp\QuizzApp\bin\Debug\QuizzApp.exe
+M:\QuizzApp\QuizzApp\bin\Debug\QuizzApp.pdb
+M:\QuizzApp\QuizzApp\bin\Debug\Guna.UI2.dll
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.csprojAssemblyReference.cache
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.StartPage.resources
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.Properties.Resources.resources
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.csproj.GenerateResource.cache
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.csproj.CoreCompileInputs.cache
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.csproj.CopyComplete
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.exe
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.pdb
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.MainPage.resources
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.QuizStratedPage.resources
+M:\QuizzApp\QuizzApp\obj\Debug\QuizzApp.QuizResult.resources
